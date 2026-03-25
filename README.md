@@ -83,7 +83,7 @@ cd Authentication-Spring-boot-Microservice
 
 ## 2️⃣ Configure Environment Variables
 
-⚠️ Do NOT commit secrets. Use environment variables:
+ Use environment variables:
 
 ```properties
 spring.mail.username=${MAIL_USERNAME}
